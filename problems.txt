@@ -1,0 +1,2 @@
+clear the text content
+use date() to create new data and calculate current time
